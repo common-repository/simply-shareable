@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simply Shareable\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 19:05+0000\n"
+"PO-Revision-Date: 2017-04-25 19:06+0000\n"
+"Last-Translator: Tarraccas Obremski <tarraccas@burningmoth.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: bmc_simply_shareable.php:1719
+msgid "RSS 2.0"
+msgstr ""
+
+#: bmc_simply_shareable.php:1720
+msgid "ATOM 1.0"
+msgstr ""
+
+#: bmc_simply_shareable.php:1721
+msgid "RDF/RSS 1.0"
+msgstr ""
+
+#. Section ID
+#. Name of the plugin
+#: bmc_simply_shareable.php:2017
+msgid "Simply Shareable"
+msgstr ""
+
+#: bmc_simply_shareable.php:2023
+msgid "Site Twitter"
+msgstr ""
+
+#: bmc_simply_shareable.php:2024
+msgid "Twitter Whitelisted"
+msgstr ""
+
+#: bmc_simply_shareable.php:2025
+msgid "Site Facebook"
+msgstr ""
+
+#: bmc_simply_shareable.php:2026
+msgid "Facebook App ID"
+msgstr ""
+
+#: bmc_simply_shareable.php:2028
+msgid "Google Verify"
+msgstr ""
+
+#: bmc_simply_shareable.php:2030
+msgid "Cache"
+msgstr ""
+
+#: bmc_simply_shareable.php:2031
+msgid "Uninstall Data"
+msgstr ""
+
+#: bmc_simply_shareable.php:2055
+msgid "Syndication Feeds"
+msgstr ""
+
+#: bmc_simply_shareable.php:2061
+msgid "Feed Formats"
+msgstr ""
+
+#: bmc_simply_shareable.php:2062
+msgid "General Feeds"
+msgstr ""
+
+#: bmc_simply_shareable.php:2063
+msgid "Specific Feeds"
+msgstr ""
+
+#: bmc_simply_shareable.php:2099
+#, php-format
+msgid "Site settings for <a href=\"%1$s\">%2$s plugin</a>."
+msgstr ""
+
+#: bmc_simply_shareable.php:2124
+#, php-format
+msgid ""
+"Sets value of <code>twitter:site</code> meta tag required by <a "
+"href=\"%1$s\" target=\"_blank\">Twitter Cards</a>. Should be in the form of "
+"<code>https://twitter.com/USERNAME</code>, <code>@USERNAME</code> or <code>"
+"USERNAME</code>."
+msgstr ""
+
+#: bmc_simply_shareable.php:2152
+#, php-format
+msgid ""
+"Sets value of <code>article:publisher</code> meta tag required by <a "
+"href=\"%1$s\" target=\"_blank\">Facebook Open Graph</a>. Should be in the "
+"form of <code>https://www.facebook.com/USERNAME</code> or <code>"
+"USERNAME</code>."
+msgstr ""
+
+#: bmc_simply_shareable.php:2181
+#, php-format
+msgid ""
+"Google verify token from <a href=\"%1$s\" target=\"_blank\">Search Console > "
+"Alternate Methods > Html Tag</a>. This connects Google+ profiles with shared "
+"articles."
+msgstr ""
+
+#: bmc_simply_shareable.php:2208
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Facebook App ID</a> that links your site "
+"with Facebook social plugins, analytics and other services."
+msgstr ""
+
+#: bmc_simply_shareable.php:2236
+msgid "Manage syndicated news feeds. (RSS, ATOM, etc.)"
+msgstr ""
+
+#: bmc_simply_shareable.php:2240
+#, php-format
+msgid ""
+"Additional feed settings can be found under the <a href=\"%1$s\">%2$s</a> "
+"admin page when enabled."
+msgstr ""
+
+#: bmc_simply_shareable.php:2269
+msgid "Reuse cached generated meta tags to improve load time?"
+msgstr ""
+
+#: bmc_simply_shareable.php:2272
+msgid ""
+"Overridden to not cache if <code>WP_DEBUG</code> is set to true in <code>wp-"
+"config.php</code>."
+msgstr ""
+
+#: bmc_simply_shareable.php:2299
+#, php-format
+msgid "Delete data upon uninstalling %s?"
+msgstr ""
+
+#: bmc_simply_shareable.php:2303
+msgid "Check if you don't plan on reactivating this plugin again."
+msgstr ""
+
+#: bmc_simply_shareable.php:2324
+msgid "Approved (or seeking approval) to share video on Twitter?"
+msgstr ""
+
+#: bmc_simply_shareable.php:2327
+msgid ""
+"<a href=\"https://dev.twitter.com/cards/types/player\" target=\"_blank\">"
+"Video requirements must be met and approved</a> before video hosted on your "
+"site can be shared on Twitter."
+msgstr ""
+
+#: bmc_simply_shareable.php:2327
+msgid ""
+"Twitter <a href=\"https://dev.twitter.com/cards/types/player\" "
+"target=\"_blank\">requires SSL</a> for video to be shared from your site."
+msgstr ""
+
+#. always disabled until Facebook changes it's policy ...
+#: bmc_simply_shareable.php:2356
+msgid "Approved to share audio on Facebook?"
+msgstr ""
+
+#: bmc_simply_shareable.php:2359
+msgid ""
+"Only <a href=\"https://developers.facebook.com/docs/opengraph/music/\" "
+"target=\"_blank\">select vendors are permitted to share music</a> on "
+"Facebook. No approval process is currently available."
+msgstr ""
+
+#: bmc_simply_shareable.php:2381
+#, php-format
+msgid "Feed settings provided by <a href=\"%1$s\">%2$s plugin</a>."
+msgstr ""
+
+#: bmc_simply_shareable.php:2444
+msgid "Posts Feed"
+msgstr ""
+
+#: bmc_simply_shareable.php:2445
+msgid "Comments Feed"
+msgstr ""
+
+#: bmc_simply_shareable.php:2494
+msgid "Post Comments Feeds"
+msgstr ""
+
+#: bmc_simply_shareable.php:2495
+msgid "Posts Archive Feeds"
+msgstr ""
+
+#: bmc_simply_shareable.php:2496
+msgid "Category, Tags and Taxonomy Feeds"
+msgstr ""
+
+#: bmc_simply_shareable.php:2497
+msgid "Author Posts Feeds"
+msgstr ""
+
+#: bmc_simply_shareable.php:2498
+msgid "Search Results Feeds"
+msgstr ""
+
+#: bmc_simply_shareable.php:2540
+msgid "Twitter"
+msgstr ""
+
+#: bmc_simply_shareable.php:2541
+msgid "Facebook"
+msgstr ""
+
+#: bmc_simply_shareable.php:2542
+msgid "Google Plus"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Automatically generates Open Graph, Schema.org microdata, meta and link HTML "
+"tags from existing information and resources that social media platforms "
+"like Twitter, Facebook, Google Plus and others read to compose previews for "
+"pages shared."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.burningmoth.com/creation/simply-shareable/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Burning Moth Creations"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.burningmoth.com/"
+msgstr ""
